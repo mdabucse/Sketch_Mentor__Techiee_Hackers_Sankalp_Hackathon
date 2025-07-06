@@ -2,15 +2,6 @@
 
 Sketch Mentor is an innovative platform developed during the **Sankalp Hackathon** by Techiee Hackers. It connects aspiring designers with experienced mentors, helping them grow their skills through curated tasks, portfolio reviews, and real-time guidance.
 
-## 🚀 Project Overview
-
-This platform aims to bridge the gap between design learners and industry professionals by offering:
-
-* 🧑‍🏫 One-on-one mentorship sessions
-* 🎯 Guided task submissions and feedback
-* 📁 Portfolio-building support
-* 🧠 AI-powered design evaluations (coming soon)
-
 ## 🛠️ Tech Stack
 
 | Frontend | Backend              | Database | Authentication |
@@ -40,17 +31,27 @@ Sketch_Mentor__Techiee_Hackers_Sankalp_Hackathon/
 
 ## ✨ Features
 
-* 📌 Mentor and mentee registration
-* 📝 Task assignment and feedback system
-* 📊 Dashboard for progress tracking
-* 🔒 Secure login and role-based access
-* 📄 Portfolio upload and reviews
+### 🎨 Canvas AI
+
+Our system offers a dedicated math canvas for writing equations and diagrams that the AI instantly solves with step-by-step guidance. A RAG-based chatbot delivers context-aware answers from video transcripts, while a video transcriber powered by OpenAI Whisper converts audio into searchable text.
+
+### 🎥 Video Generation
+
+Simply provide the algorithm's name or description, and our system automatically creates all the necessary visuals—shapes, parameters, and diagrams—along with a step-by-step text animation to explain it clearly.
+
+### 📊 Visualizer
+
+Our real-time equation visualizer converts your equations into dynamic, interactive graphs, allowing you to explore the behavior of functions as they evolve. It highlights key features like intercepts, slopes, and curvature, offering a clear, intuitive way to understand and analyze complex mathematical relationships.
+
+### ⚙️ Interactive Solver
+
+Our interactive solver provides comprehensive, step-by-step solutions using both text and images. It details every stage of the process, explaining what to do, how to perform each step, and showcasing the output at every point, making it easy to follow along and understand the solution.
 
 ## 📸 Screenshots
 
 > *Add screenshots or demo GIFs here*
 
-## 🗕️ Hackathon Details
+## 🗓️ Hackathon Details
 
 * 💡 Hackathon: **Sankalp Hackathon**
 * 🧑‍💻 Team: **Techiee Hackers**
@@ -60,7 +61,7 @@ Sketch_Mentor__Techiee_Hackers_Sankalp_Hackathon/
 ## 👨‍💻 Contributors
 
 * [@mdabucse](https://github.com/mdabucse)
-* \[List other team members here with GitHub links]
+* [@Janani-m17](https://github.com/Janani-m17)
 
 ## 🧪 How to Run Locally
 
