@@ -2,6 +2,9 @@
 
 Sketch Mentor is an innovative platform developed during the **Sankalp Hackathon** by Techiee Hackers. It connects aspiring designers with experienced mentors, helping them grow their skills through curated tasks, portfolio reviews, and real-time guidance.
 
+# LIVE DEMO
+https://sketch-mentor-verse.vercel.app/
+
 ## 🛠️ Tech Stack
 
 | Frontend | Backend              | Database | Authentication |
