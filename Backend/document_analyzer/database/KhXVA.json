@@ -1,0 +1,249 @@
+{
+  "summary": "## Overview\n\nThis document outlines Janani M's technical skills, education, project experience, open-source contributions, achievements, certifications, and skills, demonstrating a strong foundation in software development with a focus on MERN stack technologies and a proactive approach to learning and contributing to the tech community.\n\n**1. Project Experience Showcasing Full-Stack Capabilities**\n\n*   **TenX - A Task Management System (2025):**\n    *   Employed ReactJS for the frontend and Spring Boot for the backend.\n    *   Implemented JWT and Bcrypt for user authentication and security.\n    *   Enabled CRUD operations for tasks, associating them with logged-in users.\n    *   Highlights full-stack skills and experience with Spring Boot framework.\n*   **Spam Shield (2024):**\n    *   Developed a machine learning system for phishing detection (SMS, emails, URLs).\n    *   Utilized Multinomial Naive Bayes for SMS/email and Decision Tree, Random Forest, and Multilayer Perceptron for URL detection.\n    *   Integrated frontend with HTML/CSS/JavaScript and backend with Python/Flask/TensorFlow/NLTK/Scikit-learn.\n    *   Demonstrates knowledge of machine learning algorithms and full-stack development.\n*   **Student Hub API (2023):**\n    *   Developed a REST API using Java, Maven, MySQL, and Spring Boot.\n    *   Integrated Eclipse, Postman API, and MySQL Workbench.\n    *   Implemented CRUD operations with custom URIs and robust exception handling.\n    *   Showcases proficiency in Java and Spring Boot for API development.\n*   **MERN Stack Projects (2023-2024):**\n    *   Developed a Timer website using React hooks.\n    *   Created an Expense Tracker using the MERN stack (MongoDB, Express.js, React.js, Node.js).\n    *   Focus on user-friendly interface design.\n    *   Highlights MERN stack proficiency and UI development skills.\n\n**2. Strong Foundation in MERN Stack and Related Technologies**\n\n*   **MERN Stack E-commerce Website (2024):**\n    *   Successfully built an e-commerce website using the MERN stack (MongoDB, Express.js, React.js, Node.js).\n    *   Utilized React Redux for state management.\n    *   Implemented React Router DOM for seamless navigation.\n    *   Secured authentication using JWT tokens.\n    *   Demonstrates advanced MERN stack knowledge.\n*   **Skills:**\n    *   Proficient in Web Technologies: HTML, CSS, JavaScript, React JS, Node JS, Express JS.\n    *   Experienced with Databases: SQL and MongoDB.\n    *   Familiar with Tools: VScode, Pycharm, IntelliJ, Canva, Github, Postman, Mysql Workbench.\n\n**3. Active Open-Source Contributor and Academic Achievements**\n\n*   **Open Source Contributor (Girls Script Summer of Code, 2024):**\n    *   Engaged in open-source projects by writing code, fixing bugs, and adding new features.\n    *   Collaborated with maintainers and peers to improve software quality and documentation.\n    *   Demonstrates commitment to contributing to the open-source community.\n*   **Education:**\n    *   Pursuing B.E. in CCE at Sri Eshwar College of Engineering (2022-2026) with a CGPA of 8.9 (upto 5th semester).\n    *   Strong academic background with high scores in HSC (93.6%) and SSLC (97.8%).\n*   **Achievements:**\n    *   Published an article in Open Source For You Magazine using Python to build a Network Explorer.\n    *   Published a paper on IEEE Explore Web 3.0: A Decentralized Future Empowered by Blockchain.\n    *   Secured 5th position in Industry Powered Sprint Week - SECE (2023).\n    *   Secured 2nd position in Innovation Fest 2023 - SECE (2023).\n*   **Coding Profiles:**\n    *   LeetCode: Max Rating - 1739, Top 11%, Problems Solved - 570+.\n    *   CodeChef: Max Rating - 1353.\n    *   HackerRank: 2 Star in C, Python, Java; 3 Star in C++.\n\n**4. Continuous Learning and Certifications**\n\n*   **Certifications:**\n    *   Certified in Python(Basic), SQL(Basic), SQL(Intermediate) from Hackerrank (2024).\n    *   Certified in Introduction to Programming in C, Cloud Computing from NPTEL (2023).\n    *   Certified in Mastering Data Structures & Algorithms from Udemy (2023).\n    *   Certified in The Fundamentals of Digital Marketing from Google (2022).\n    *   Demonstrates a commitment to continuous learning and skill development.\n",
+  "flash_cards": [
+    [
+      "MERN Stack",
+      "MongoDB, Express.js, React.js, Node.js - a full-stack JavaScript framework"
+    ],
+    [
+      "React Redux",
+      "A predictable state container for JavaScript apps, often used with React for managing application state."
+    ],
+    [
+      "React Router DOM",
+      "A library for enabling navigation between different views in a React application."
+    ],
+    [
+      "JWT Tokens",
+      "JSON Web Tokens - a standard for securely transmitting information between parties as a JSON object."
+    ],
+    [
+      "bcrypt",
+      "A password hashing function used to securely store passwords."
+    ],
+    [
+      "Multinomial Naive Bayes",
+      "A probabilistic machine learning classifier suitable for text classification, often used in spam detection."
+    ],
+    [
+      "TensorFlow",
+      "An open-source software library for numerical computation and large-scale machine learning."
+    ],
+    [
+      "NLTK",
+      "Natural Language Toolkit - a suite of libraries and programs for symbolic and statistical natural language processing."
+    ],
+    [
+      "Spring Boot",
+      "An open-source Java-based framework used to create microservices. It is developed by Pivotal Team and is used to build stand-alone and production-ready spring applications."
+    ],
+    [
+      "REST API",
+      "Representational State Transfer - an architectural style that defines a set of constraints to be used for creating Web services."
+    ]
+  ],
+  "quiz": [
+    {
+      "question": "TensorFlow",
+      "possible_answers": [
+        "An open-source Java-based framework used to create microservices. It is developed by Pivotal Team and is used to build stand-alone and production-ready spring applications.",
+        "Natural Language Toolkit - a suite of libraries and programs for symbolic and statistical natural language processing.",
+        "Representational State Transfer - an architectural style that defines a set of constraints to be used for creating Web services.",
+        "An open-source software library for numerical computation and large-scale machine learning."
+      ],
+      "index": 3
+    },
+    {
+      "question": "What was the max rating achieved on LeetCode?",
+      "possible_answers": [
+        "1600",
+        "1353",
+        "1500",
+        "1739"
+      ],
+      "index": 3
+    },
+    {
+      "question": "JWT Tokens",
+      "possible_answers": [
+        "JSON Web Tokens - a standard for securely transmitting information between parties as a JSON object.",
+        "An open-source software library for numerical computation and large-scale machine learning.",
+        "A probabilistic machine learning classifier suitable for text classification, often used in spam detection.",
+        "A predictable state container for JavaScript apps, often used with React for managing application state."
+      ],
+      "index": 0
+    },
+    {
+      "question": "Which of the following is NOT a technology used in the 'Spam Shield' project?",
+      "possible_answers": [
+        "TensorFlow",
+        "NLTK",
+        "Spring Boot",
+        "Scikit-learn"
+      ],
+      "index": 2
+    },
+    {
+      "question": "What is the MERN stack?",
+      "possible_answers": [
+        "MongoDB, Express.js, Ruby, Node.js",
+        "MongoDB, Express.js, React.js, Node.js",
+        "MySQL, Express.js, React.js, Node.js",
+        "MySQL, Express.js, Ruby, Node.js"
+      ],
+      "index": 1
+    },
+    {
+      "question": "NLTK",
+      "possible_answers": [
+        "Natural Language Toolkit - a suite of libraries and programs for symbolic and statistical natural language processing.",
+        "A predictable state container for JavaScript apps, often used with React for managing application state.",
+        "MongoDB, Express.js, React.js, Node.js - a full-stack JavaScript framework",
+        "JSON Web Tokens - a standard for securely transmitting information between parties as a JSON object."
+      ],
+      "index": 0
+    },
+    {
+      "question": "Which database system was used for the Student Hub API project?",
+      "possible_answers": [
+        "Oracle",
+        "MongoDB",
+        "PostgreSQL",
+        "MySQL"
+      ],
+      "index": 3
+    },
+    {
+      "question": "Spring Boot",
+      "possible_answers": [
+        "Natural Language Toolkit - a suite of libraries and programs for symbolic and statistical natural language processing.",
+        "Representational State Transfer - an architectural style that defines a set of constraints to be used for creating Web services.",
+        "A probabilistic machine learning classifier suitable for text classification, often used in spam detection.",
+        "An open-source Java-based framework used to create microservices. It is developed by Pivotal Team and is used to build stand-alone and production-ready spring applications."
+      ],
+      "index": 3
+    },
+    {
+      "question": "What type of machine learning algorithm was NOT used for URL detection in the 'Spam Shield' project?",
+      "possible_answers": [
+        "Naive Bayes",
+        "Decision Tree",
+        "Random Forest",
+        "Multilayer Perceptron"
+      ],
+      "index": 0
+    },
+    {
+      "question": "Which framework was used for the backend of the TenX project?",
+      "possible_answers": [
+        "Spring Boot",
+        "Express.js",
+        "Node.js",
+        "Flask"
+      ],
+      "index": 0
+    },
+    {
+      "question": "React Redux",
+      "possible_answers": [
+        "A library for enabling navigation between different views in a React application.",
+        "A predictable state container for JavaScript apps, often used with React for managing application state.",
+        "MongoDB, Express.js, React.js, Node.js - a full-stack JavaScript framework",
+        "An open-source Java-based framework used to create microservices. It is developed by Pivotal Team and is used to build stand-alone and production-ready spring applications."
+      ],
+      "index": 1
+    },
+    {
+      "question": "Which of the following state management tools was utilized in the e-commerce website project?",
+      "possible_answers": [
+        "React Redux",
+        "React Hooks",
+        "React Context",
+        "Vuex"
+      ],
+      "index": 0
+    },
+    {
+      "question": "In the TenX project, which technology was used for password hashing?",
+      "possible_answers": [
+        "AES",
+        "SHA-256",
+        "Bcrypt",
+        "MD5"
+      ],
+      "index": 2
+    },
+    {
+      "question": "In which magazine did Janani publish an article?",
+      "possible_answers": [
+        "TechCrunch",
+        "Open Source For You",
+        "Linux Journal",
+        "IEEE Explore"
+      ],
+      "index": 1
+    },
+    {
+      "question": "REST API",
+      "possible_answers": [
+        "A password hashing function used to securely store passwords.",
+        "An open-source software library for numerical computation and large-scale machine learning.",
+        "A library for enabling navigation between different views in a React application.",
+        "Representational State Transfer - an architectural style that defines a set of constraints to be used for creating Web services."
+      ],
+      "index": 3
+    },
+    {
+      "question": "MERN Stack",
+      "possible_answers": [
+        "A predictable state container for JavaScript apps, often used with React for managing application state.",
+        "MongoDB, Express.js, React.js, Node.js - a full-stack JavaScript framework",
+        "An open-source Java-based framework used to create microservices. It is developed by Pivotal Team and is used to build stand-alone and production-ready spring applications.",
+        "A probabilistic machine learning classifier suitable for text classification, often used in spam detection."
+      ],
+      "index": 1
+    },
+    {
+      "question": "bcrypt",
+      "possible_answers": [
+        "A password hashing function used to securely store passwords.",
+        "A library for enabling navigation between different views in a React application.",
+        "A predictable state container for JavaScript apps, often used with React for managing application state.",
+        "An open-source Java-based framework used to create microservices. It is developed by Pivotal Team and is used to build stand-alone and production-ready spring applications."
+      ],
+      "index": 0
+    },
+    {
+      "question": "Multinomial Naive Bayes",
+      "possible_answers": [
+        "A library for enabling navigation between different views in a React application.",
+        "A probabilistic machine learning classifier suitable for text classification, often used in spam detection.",
+        "An open-source Java-based framework used to create microservices. It is developed by Pivotal Team and is used to build stand-alone and production-ready spring applications.",
+        "MongoDB, Express.js, React.js, Node.js - a full-stack JavaScript framework"
+      ],
+      "index": 1
+    },
+    {
+      "question": "In the Student Hub API project, which tool was integrated for API testing?",
+      "possible_answers": [
+        "MySQL Workbench",
+        "Postman API",
+        "Maven",
+        "Eclipse"
+      ],
+      "index": 1
+    },
+    {
+      "question": "React Router DOM",
+      "possible_answers": [
+        "JSON Web Tokens - a standard for securely transmitting information between parties as a JSON object.",
+        "A library for enabling navigation between different views in a React application.",
+        "A probabilistic machine learning classifier suitable for text classification, often used in spam detection.",
+        "A password hashing function used to securely store passwords."
+      ],
+      "index": 1
+    }
+  ],
+  "title": "Janani M. - Resume\n",
+  "id": "KhXVA"
+}

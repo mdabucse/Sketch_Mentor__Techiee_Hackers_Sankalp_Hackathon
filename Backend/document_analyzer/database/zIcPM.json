@@ -1,0 +1,249 @@
+{
+  "summary": "## Janani M. - Technical Skills & Experience Summary\n\n**Overview:** This summary highlights Janani M.'s skills and experience in software development, particularly within the MERN stack and related technologies, with a strong emphasis on project work, open-source contributions, and academic achievements.\n\n**1. Project Experience Demonstrating Full-Stack Capabilities**\n\n*   Janani has experience in developing full-stack applications.\n*   **TenX - Task Management System (2025):**\n    *   Utilizes React JS for the frontend and Spring Boot for the backend.\n    *   Implements secure user session management with JWT tokens and bcrypt for password hashing.\n    *   Enables CRUD operations for tasks and ensures task association with logged-in users.\n*   **Spam Shield (2024):**\n    *   A machine learning-based system for detecting phishing attacks in SMS, emails, and URLs.\n    *   Employs Multinomial Naive Bayes for SMS/mail detection and Decision Tree, Random Forest, and Multilayer Perceptron for URL detection, enhanced with TensorFlow.\n    *   Integrates a user-friendly website and browser extension.\n*   **Student Hub API (2023):**\n    *   Java Maven project with custom URIs for CRUD operations.\n    *   Utilizes Eclipse, Postman API, and MySQL Workbench.\n    *   Includes robust exception handling.\n\n**2. Proficient in MERN Stack Development and Related Technologies**\n\n*   **MERN Stack Projects:**\n    *   E-commerce Website (2024): Successfully built an e-commerce website using the MERN stack, showcasing advanced concepts like React Redux for state management and React Router DOM for navigation.\n    *   Timer Website (2023): Developed using React hooks.\n    *   Expense Tracker (2023): Built with the MERN stack.\n*   **Technology Stack:**\n    *   Languages: C++, Java, Python\n    *   Web Technologies: HTML, CSS, JavaScript, React JS, Node JS, Express JS\n    *   Databases: SQL, MongoDB\n    *   Core Concepts: Data Structures and Algorithms, OOPS, DBMS, Operating System, Networking\n    *   Tools: VScode, Pycharm, IntelliJ, Canva, Github, Postman, Mysql Workbench\n*   **Strong focus on user-friendly interfaces to enhance the overall user experience.**\n\n**3. Active Contributor to Open-Source Projects and Academic Research**\n\n*   **Open Source Contributor (Girls Script Summer of Code 2024):**\n    *   Actively participates in open-source projects by writing code, fixing bugs, and adding features.\n    *   Collaborates with maintainers and peers to improve software quality and documentation.\n*   **Publications:**\n    *   Published an article in Open Source For You Magazine on building a Network Explorer using Python.\n    *   Published a paper on IEEE Explore about Web 3.0 and Blockchain.\n*   **Certifications**\n    *   Certified in Python(Basic), SQL(Basic), SQL(Intermediate)\n    *   Certified in Introduction to Programming in C, Cloud Computing\n    *   Certified in Mastering Data Structures & Algorithms\n    *   Certified in The Fundamentals of Digital Marketing\n\n**4. Academic Excellence and Competitive Programming Skills**\n\n*   **Education:**\n    *   Currently pursuing a B.E. in CCE (Computer and Communication Engineering) at Sri Eshwar College of Engineering (2022-2026), with a CGPA of 8.9 (up to the 5th semester).\n    *   Strong academic record in HSC (93.6%) and SSLC (97.8%).\n*   **Achievements:**\n    *   Secured 5th position in Industry Powered Sprint Week - SECE (2023).\n    *   Secured 2nd position in Innovation Fest 2023 - SECE.\n*   **Competitive Programming:**\n    *   LEETCODE: Max Rating - 1739, Top 11%, Problems Solved - 570+.\n    *   CODECHEF: Max Rating - 1353.\n    *   HACKERRANK: 2 Star - C, Python, Java; 3 Star - C++.\n",
+  "flash_cards": [
+    [
+      "MERN Stack",
+      "MongoDB, Express.js, React.js, Node.js - a full-stack JavaScript framework."
+    ],
+    [
+      "React Redux",
+      "A predictable state container for JavaScript apps, used for state management in React."
+    ],
+    [
+      "React Router DOM",
+      "A standard library for routing in React web applications. It enables navigation among views of a single-page application."
+    ],
+    [
+      "JWT (JSON Web Tokens)",
+      "An open standard used to share security information between two parties — a client and a server. Each JWT contains encoded JSON objects, including a set of claims."
+    ],
+    [
+      "Spring Boot",
+      "An open-source Java-based framework used to create microservices. It offers a fast and convenient way to build stand-alone, production-grade Spring-based applications."
+    ],
+    [
+      "Bcrypt",
+      "A popular password-hashing function designed to be computationally intensive and resistant to brute-force attacks."
+    ],
+    [
+      "Multinomial Naive Bayes",
+      "A probabilistic learning method often used in natural language processing (NLP) for text classification. Commonly used to classify documents."
+    ],
+    [
+      "TensorFlow",
+      "An open-source machine learning framework developed by Google for building and training machine learning models."
+    ],
+    [
+      "REST API",
+      "An architectural style for an application program interface (API) that uses HTTP requests to access and use data. Representational State Transfer"
+    ],
+    [
+      "CRUD Operations",
+      "Create, Read, Update, and Delete - the four basic operations of persistent storage."
+    ]
+  ],
+  "quiz": [
+    {
+      "question": "MERN Stack",
+      "possible_answers": [
+        "A predictable state container for JavaScript apps, used for state management in React.",
+        "MongoDB, Express.js, React.js, Node.js - a full-stack JavaScript framework.",
+        "A standard library for routing in React web applications. It enables navigation among views of a single-page application.",
+        "An open-source machine learning framework developed by Google for building and training machine learning models."
+      ],
+      "index": 1
+    },
+    {
+      "question": "CRUD Operations",
+      "possible_answers": [
+        "Create, Read, Update, and Delete - the four basic operations of persistent storage.",
+        "A standard library for routing in React web applications. It enables navigation among views of a single-page application.",
+        "A predictable state container for JavaScript apps, used for state management in React.",
+        "An open-source Java-based framework used to create microservices. It offers a fast and convenient way to build stand-alone, production-grade Spring-based applications."
+      ],
+      "index": 0
+    },
+    {
+      "question": "React Router DOM",
+      "possible_answers": [
+        "An architectural style for an application program interface (API) that uses HTTP requests to access and use data. Representational State Transfer",
+        "A predictable state container for JavaScript apps, used for state management in React.",
+        "Create, Read, Update, and Delete - the four basic operations of persistent storage.",
+        "A standard library for routing in React web applications. It enables navigation among views of a single-page application."
+      ],
+      "index": 3
+    },
+    {
+      "question": "Multinomial Naive Bayes",
+      "possible_answers": [
+        "A standard library for routing in React web applications. It enables navigation among views of a single-page application.",
+        "Create, Read, Update, and Delete - the four basic operations of persistent storage.",
+        "MongoDB, Express.js, React.js, Node.js - a full-stack JavaScript framework.",
+        "A probabilistic learning method often used in natural language processing (NLP) for text classification. Commonly used to classify documents."
+      ],
+      "index": 3
+    },
+    {
+      "question": "Which state management tool was utilized in the e-commerce website project?",
+      "possible_answers": [
+        "Redux Toolkit",
+        "React Redux",
+        "Vuex",
+        "React Context"
+      ],
+      "index": 1
+    },
+    {
+      "question": "JWT (JSON Web Tokens)",
+      "possible_answers": [
+        "An open standard used to share security information between two parties — a client and a server. Each JWT contains encoded JSON objects, including a set of claims.",
+        "MongoDB, Express.js, React.js, Node.js - a full-stack JavaScript framework.",
+        "A predictable state container for JavaScript apps, used for state management in React.",
+        "A standard library for routing in React web applications. It enables navigation among views of a single-page application."
+      ],
+      "index": 0
+    },
+    {
+      "question": "TensorFlow",
+      "possible_answers": [
+        "MongoDB, Express.js, React.js, Node.js - a full-stack JavaScript framework.",
+        "Create, Read, Update, and Delete - the four basic operations of persistent storage.",
+        "A popular password-hashing function designed to be computationally intensive and resistant to brute-force attacks.",
+        "An open-source machine learning framework developed by Google for building and training machine learning models."
+      ],
+      "index": 3
+    },
+    {
+      "question": "React Redux",
+      "possible_answers": [
+        "A predictable state container for JavaScript apps, used for state management in React.",
+        "A standard library for routing in React web applications. It enables navigation among views of a single-page application.",
+        "A probabilistic learning method often used in natural language processing (NLP) for text classification. Commonly used to classify documents.",
+        "MongoDB, Express.js, React.js, Node.js - a full-stack JavaScript framework."
+      ],
+      "index": 0
+    },
+    {
+      "question": "Which of the following is NOT a tool listed under the 'Tools' section?",
+      "possible_answers": [
+        "VScode",
+        "Canva",
+        "IntelliJ",
+        "Eclipse"
+      ],
+      "index": 3
+    },
+    {
+      "question": "Spring Boot",
+      "possible_answers": [
+        "MongoDB, Express.js, React.js, Node.js - a full-stack JavaScript framework.",
+        "An open-source Java-based framework used to create microservices. It offers a fast and convenient way to build stand-alone, production-grade Spring-based applications.",
+        "An open-source machine learning framework developed by Google for building and training machine learning models.",
+        "A standard library for routing in React web applications. It enables navigation among views of a single-page application."
+      ],
+      "index": 1
+    },
+    {
+      "question": "What type of machine learning models were used for URL detection in the Spam Shield project?",
+      "possible_answers": [
+        "Linear Regression",
+        "Multinomial Naive Bayes",
+        "Support Vector Machines",
+        "Decision Tree, Random Forest, and Multilayer Perceptron"
+      ],
+      "index": 3
+    },
+    {
+      "question": "What is Janani's current CGPA?",
+      "possible_answers": [
+        "9.2",
+        "8.5",
+        "9.5",
+        "8.9"
+      ],
+      "index": 3
+    },
+    {
+      "question": "Which of the following is NOT a technology used in the Spam Shield project?",
+      "possible_answers": [
+        "Spring Boot",
+        "Flask",
+        "Scikit-learn",
+        "HTML"
+      ],
+      "index": 0
+    },
+    {
+      "question": "Which database was used in the Student Hub API project?",
+      "possible_answers": [
+        "MySQL",
+        "MongoDB",
+        "PostgreSQL",
+        "Oracle"
+      ],
+      "index": 0
+    },
+    {
+      "question": "Which project used Java and Spring Boot?",
+      "possible_answers": [
+        "Spam Shield",
+        "Student Hub API",
+        "MERN stack Timer Website",
+        "TenX"
+      ],
+      "index": 1
+    },
+    {
+      "question": "Which technology was used for password hashing in the TenX project?",
+      "possible_answers": [
+        "bcrypt",
+        "MD5",
+        "SHA-256",
+        "Base64"
+      ],
+      "index": 0
+    },
+    {
+      "question": "Bcrypt",
+      "possible_answers": [
+        "An open standard used to share security information between two parties — a client and a server. Each JWT contains encoded JSON objects, including a set of claims.",
+        "A probabilistic learning method often used in natural language processing (NLP) for text classification. Commonly used to classify documents.",
+        "An open-source machine learning framework developed by Google for building and training machine learning models.",
+        "A popular password-hashing function designed to be computationally intensive and resistant to brute-force attacks."
+      ],
+      "index": 3
+    },
+    {
+      "question": "REST API",
+      "possible_answers": [
+        "A standard library for routing in React web applications. It enables navigation among views of a single-page application.",
+        "An open-source Java-based framework used to create microservices. It offers a fast and convenient way to build stand-alone, production-grade Spring-based applications.",
+        "An architectural style for an application program interface (API) that uses HTTP requests to access and use data. Representational State Transfer",
+        "An open standard used to share security information between two parties — a client and a server. Each JWT contains encoded JSON objects, including a set of claims."
+      ],
+      "index": 2
+    },
+    {
+      "question": "In what year was the 'Fundamentals of Digital Marketing' certification obtained?",
+      "possible_answers": [
+        "2022",
+        "2024",
+        "2021",
+        "2023"
+      ],
+      "index": 0
+    },
+    {
+      "question": "Which of the following projects specifically mentions the use of REST APIs?",
+      "possible_answers": [
+        "Student Hub API",
+        "Spam Shield",
+        "Timer Website",
+        "Expense Tracker"
+      ],
+      "index": 0
+    }
+  ],
+  "title": "Janani M. - Resume\n",
+  "id": "zIcPM"
+}

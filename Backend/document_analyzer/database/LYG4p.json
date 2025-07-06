@@ -1,0 +1,249 @@
+{
+  "summary": "## Janani M. - Technical Skills and Experience Summary\n\nThis summary highlights the key aspects of Janani M.'s profile, showcasing their skills, experience, and achievements in software development and computer science.\n\n*   Phone: 6379040717\n*   Email: janani.m2022cce@sece.ac.in\n*   Github: [Github](Github)\n*   LinkedIn: [LinkedIn](LinkedIn)\n\n**1. Project Experience: Demonstrating Full-Stack and Machine Learning Skills**\n\n*   **TenX - Task Management System (2025):**\n    *   Full-stack MERN with a Spring Boot backend\n    *   Focus on secure user authentication (JWT, bcrypt)\n    *   Emphasis on CRUD operations and task management linked to user accounts.\n*   **Spam Shield (2024):**\n    *   Leverages machine learning for phishing detection in SMS, emails, and URLs.\n    *   Uses a range of ML models (Multinomial Naive Bayes, Decision Tree, Random Forest, Multilayer Perceptron) using TensorFlow, NLTK, and scikit-learn.\n    *   Includes a website and browser extension for accessible spam detection.\n*   **Student Hub API (2023):**\n    *   Focuses on backend development with Java, Spring Boot, REST APIs, and MySQL.\n    *   Utilizes Eclipse, Postman API, and MySQL Workbench.\n    *   Includes robust exception handling for user experience.\n*   **MERN Stack Projects:**\n    *   Timer website using React hooks (2023)\n    *   Expense Tracker using the MERN stack (2023)\n    *   Focus on user-friendly interfaces.\n*   **E-commerce Website(2024):**\n    *   Built using the MERN stack\n    *   Utilized advanced concepts such as React Redux for state management\n    *   Utilized React Router DOM for seamless navigation\n    *   Implemented secure authentication with JWT tokens.\n\n**2. Open Source Contribution and Education: Actively Learning and Contributing to the Community**\n\n*   **Girls Script Summer of Code (2024):**\n    *   Engagement in open-source projects.\n    *   Involved in coding, bug fixing, adding new features, and documentation.\n    *   Collaboration with maintainers and peers to improve software quality.\n*   **Education:**\n    *   B.E. CCE (Sri Eshwar College of Engineering, 2022-2026): CGPA 8.9 (up to 5th semester).\n    *   HSC (Bharathiyar Matric Higher Secondary School, 2020-2022): 93.6%.\n    *   SSLC (Bharathiyar Matric Higher Secondary School, 2019-2020): 97.8%.\n\n**3. Technical Skills and Achievements: Demonstrating Proficiency and Recognition**\n\n*   **Programming Languages:** C++, Java, Python.\n*   **Web Technologies:** HTML, CSS, JavaScript, React JS, Node JS, Express JS.\n*   **Core Concepts:** Data Structures and Algorithms, OOPS, DBMS, Operating System, Networking.\n*   **Databases:** SQL, MongoDB.\n*   **Tools:** VScode, Pycharm, IntelliJ, Canva, Github, Postman, Mysql Workbench.\n*   **LeetCode:** Max Rating - 1739 | Top 11 % | Problems Solved - 570+ | Profile\n*   **CodeChef:** Max Rating - 1353 | Profile\n*   **Hackerrank:** 2 Star - C, Python, Java | 3 Star - C++ | Profile\n*   **Publications:**\n    *   Article in Open Source For You Magazine: Using Python to build a Network Explorer (2024).\n    *   Paper on IEEE Explore: Web 3.0: A Decentralized Future Empowered by Blockchain (2023).\n*   **Achievements:**\n    *   5th position in Industry Powered Sprint Week - SECE (2023).\n    *   2nd position in Innovation Fest 2023 - SECE (2023).\n*   **Certifications:**\n    *   Python(Basic), SQL(Basic), SQL(Intermediate) - Hackerrank (2024)\n    *   Introduction to Programming in C, Cloud Computing - NPTEL (2023)\n    *   Mastering Data Structures & Algorithms - Udemy (2023)\n    *   The Fundamentals of Digital Marketing - Google (2022)\n",
+  "flash_cards": [
+    [
+      "MERN Stack",
+      "MongoDB, Express.js, React.js, Node.js - A full-stack JavaScript framework."
+    ],
+    [
+      "React Redux",
+      "A predictable state container for JavaScript apps, especially React."
+    ],
+    [
+      "React Router DOM",
+      "A standard library for routing in React web applications, enabling navigation between views."
+    ],
+    [
+      "JWT Tokens",
+      "JSON Web Tokens - A standard for securely representing claims between two parties, often used for authentication."
+    ],
+    [
+      "Spring Boot",
+      "An open-source Java-based framework used to create microservices."
+    ],
+    [
+      "Bcrypt",
+      "A password-hashing function designed to be computationally intensive to resist brute-force attacks."
+    ],
+    [
+      "TensorFlow",
+      "An open-source machine learning framework developed by Google."
+    ],
+    [
+      "NLTK",
+      "Natural Language Toolkit - A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English."
+    ],
+    [
+      "Multinomial Naive Bayes",
+      "A probabilistic learning method used for text classification, based on applying Bayes' theorem."
+    ],
+    [
+      "REST API",
+      "Representational State Transfer - An architectural style for designing networked applications."
+    ]
+  ],
+  "quiz": [
+    {
+      "question": "In which year did Janani contribute to Girls Script Summer of Code?",
+      "possible_answers": [
+        "2023",
+        "2021",
+        "2024",
+        "2022"
+      ],
+      "index": 2
+    },
+    {
+      "question": "What is Janani's major in her B.E. program?",
+      "possible_answers": [
+        "Mechanical Engineering",
+        "Computer Science and Engineering (CCE)",
+        "Electrical and Electronics Engineering",
+        "Civil Engineering"
+      ],
+      "index": 1
+    },
+    {
+      "question": "Which state management library did Janani utilize in the e-commerce website project?",
+      "possible_answers": [
+        "MobX",
+        "React Redux",
+        "React Context",
+        "Redux Thunk"
+      ],
+      "index": 1
+    },
+    {
+      "question": "Multinomial Naive Bayes",
+      "possible_answers": [
+        "An open-source machine learning framework developed by Google.",
+        "An open-source Java-based framework used to create microservices.",
+        "A probabilistic learning method used for text classification, based on applying Bayes' theorem.",
+        "A password-hashing function designed to be computationally intensive to resist brute-force attacks."
+      ],
+      "index": 2
+    },
+    {
+      "question": "What technologies were used in the 'Student Hub API' project?",
+      "possible_answers": [
+        "Java, Maven, MySQL, Spring Boot, REST API",
+        "Python, Flask, MongoDB, REST API",
+        "HTML, CSS, JavaScript, PHP",
+        "React, Node.js, Express, MongoDB"
+      ],
+      "index": 0
+    },
+    {
+      "question": "React Router DOM",
+      "possible_answers": [
+        "A password-hashing function designed to be computationally intensive to resist brute-force attacks.",
+        "MongoDB, Express.js, React.js, Node.js - A full-stack JavaScript framework.",
+        "A standard library for routing in React web applications, enabling navigation between views.",
+        "Representational State Transfer - An architectural style for designing networked applications."
+      ],
+      "index": 2
+    },
+    {
+      "question": "Which backend technology was NOT used in the 'Spam Shield' project?",
+      "possible_answers": [
+        "Node.js",
+        "Flask",
+        "TensorFlow",
+        "Python"
+      ],
+      "index": 0
+    },
+    {
+      "question": "Bcrypt",
+      "possible_answers": [
+        "An open-source machine learning framework developed by Google.",
+        "Natural Language Toolkit - A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English.",
+        "An open-source Java-based framework used to create microservices.",
+        "A password-hashing function designed to be computationally intensive to resist brute-force attacks."
+      ],
+      "index": 3
+    },
+    {
+      "question": "TensorFlow",
+      "possible_answers": [
+        "Representational State Transfer - An architectural style for designing networked applications.",
+        "A password-hashing function designed to be computationally intensive to resist brute-force attacks.",
+        "An open-source machine learning framework developed by Google.",
+        "A standard library for routing in React web applications, enabling navigation between views."
+      ],
+      "index": 2
+    },
+    {
+      "question": "What year did Janani secure 2nd position in Innovation Fest at SECE?",
+      "possible_answers": [
+        "2022",
+        "2024",
+        "2023",
+        "2021"
+      ],
+      "index": 2
+    },
+    {
+      "question": "REST API",
+      "possible_answers": [
+        "An open-source machine learning framework developed by Google.",
+        "A password-hashing function designed to be computationally intensive to resist brute-force attacks.",
+        "Representational State Transfer - An architectural style for designing networked applications.",
+        "A probabilistic learning method used for text classification, based on applying Bayes' theorem."
+      ],
+      "index": 2
+    },
+    {
+      "question": "JWT Tokens",
+      "possible_answers": [
+        "JSON Web Tokens - A standard for securely representing claims between two parties, often used for authentication.",
+        "An open-source Java-based framework used to create microservices.",
+        "A probabilistic learning method used for text classification, based on applying Bayes' theorem.",
+        "A standard library for routing in React web applications, enabling navigation between views."
+      ],
+      "index": 0
+    },
+    {
+      "question": "React Redux",
+      "possible_answers": [
+        "MongoDB, Express.js, React.js, Node.js - A full-stack JavaScript framework.",
+        "JSON Web Tokens - A standard for securely representing claims between two parties, often used for authentication.",
+        "A predictable state container for JavaScript apps, especially React.",
+        "An open-source Java-based framework used to create microservices."
+      ],
+      "index": 2
+    },
+    {
+      "question": "Which of the following is NOT a tool listed in Janani's skills section?",
+      "possible_answers": [
+        "Eclipse",
+        "IntelliJ",
+        "Postman",
+        "VScode"
+      ],
+      "index": 0
+    },
+    {
+      "question": "What is Janani's maximum rating on LeetCode?",
+      "possible_answers": [
+        "1353",
+        "1739",
+        "1600",
+        "1500"
+      ],
+      "index": 1
+    },
+    {
+      "question": "MERN Stack",
+      "possible_answers": [
+        "A predictable state container for JavaScript apps, especially React.",
+        "Natural Language Toolkit - A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English.",
+        "MongoDB, Express.js, React.js, Node.js - A full-stack JavaScript framework.",
+        "A probabilistic learning method used for text classification, based on applying Bayes' theorem."
+      ],
+      "index": 2
+    },
+    {
+      "question": "NLTK",
+      "possible_answers": [
+        "A password-hashing function designed to be computationally intensive to resist brute-force attacks.",
+        "MongoDB, Express.js, React.js, Node.js - A full-stack JavaScript framework.",
+        "Natural Language Toolkit - A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English.",
+        "JSON Web Tokens - A standard for securely representing claims between two parties, often used for authentication."
+      ],
+      "index": 2
+    },
+    {
+      "question": "Spring Boot",
+      "possible_answers": [
+        "MongoDB, Express.js, React.js, Node.js - A full-stack JavaScript framework.",
+        "A standard library for routing in React web applications, enabling navigation between views.",
+        "Representational State Transfer - An architectural style for designing networked applications.",
+        "An open-source Java-based framework used to create microservices."
+      ],
+      "index": 3
+    },
+    {
+      "question": "What type of tokens were used for secure user session management in the 'TenX' project?",
+      "possible_answers": [
+        "API keys",
+        "Session cookies",
+        "OAuth tokens",
+        "JWT tokens"
+      ],
+      "index": 3
+    },
+    {
+      "question": "Which Backend technology was used in TenX?",
+      "possible_answers": [
+        "Flask",
+        "Node.js",
+        "Spring Boot",
+        "Django"
+      ],
+      "index": 2
+    }
+  ],
+  "title": "Janani M. - Portfolio\n",
+  "id": "LYG4p"
+}

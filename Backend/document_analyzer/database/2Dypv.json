@@ -1,0 +1,249 @@
+{
+  "summary": "## Janani M. - Technical Skills and Experience Summary\n\n**Overview:** This summary outlines Janani M.'s skills and experience, focusing on her projects, technical skills, education, achievements, and certifications, demonstrating a strong foundation in software development with a focus on web development using the MERN stack and machine learning.\n\n**Key Project Experience Highlights:**\n\n*   **TenX - Task Management System (2025):**\n    *   Frontend: React.js\n    *   Backend: Spring Boot\n    *   Security: JWT for Authentication, Bcrypt for Password Hashing\n    *   Database: MySQL\n    *   Functionality: Create, update, delete tasks, user association\n    *   Demonstrates full-stack development experience with Spring Boot and secure user authentication.\n*   **Spam Shield (2024):**\n    *   Technologies: HTML, CSS, JavaScript, Python, Flask, TensorFlow, NLTK, Scikit-learn\n    *   Functionality: Phishing attack detection (SMS, Email, URLs)\n    *   Models: Multinomial Naive Bayes (SMS/Mail), Decision Tree, Random Forest, Multilayer Perceptron (URL)\n    *   Features: Website, Browser Extension\n    *   Demonstrates ability to develop machine learning-based solutions and integrate them into user-friendly applications.\n*   **Student Hub API (2023):**\n    *   Technologies: Java, Maven, MySQL, Spring Boot, REST API\n    *   Tools: Eclipse, Postman API, MySQL Workbench\n    *   Functionality: CRUD operations with custom URIs\n    *   Features: Robust exception handling\n    *   Highlights backend development skills with Java, Spring Boot, and database management.\n*   **Other Projects:**\n    *   Timer website using React hooks (2023)\n    *   Expense Tracker with the MERN stack (2023)\n    *   Demonstrates familiarity with core web development technologies.\n\n**Significant Skills and Technologies:**\n\n*   **Languages:** C++, Java, Python\n*   **Web Technologies:** HTML, CSS, JavaScript, React JS, Node JS, Express JS\n*   **Core Concepts:** Data Structures and Algorithms, OOPS, DBMS, Operating System, Networking\n*   **Database:** SQL, MongoDB\n*   **Tools:** VScode, Pycharm, IntelliJ, Canva, Github, Postman, Mysql Workbench\n*   **Skills:**\n    *   Strong command of web development technologies like React, Node, and Express, showing proficiency in building dynamic web applications.\n    *   Experience with various databases including SQL and MongoDB, indicating versatility in data management.\n    *   Proficiency in Java and Python, enabling her to work on both backend and machine learning tasks.\n\n**Academic and Extracurricular Achievements:**\n\n*   **Education:**\n    *   B.E. CCE at Sri Eshwar College of Engineering (2022-2026) with a CGPA of 8.9 (up to 5th semester)\n    *   Strong academic performance in HSC (93.6%) and SSLC (97.8%)\n    *   Solid educational foundation in computer science and engineering.\n*   **Open Source Contribution:**\n    *   Girls Script Summer of Code (2024)\n    *   Writing code, fixing bugs, adding features, enhancing documentation\n    *   Demonstrates collaborative skills and a commitment to improving software.\n*   **Achievements:**\n    *   Published an article in Open Source For You Magazine on building a Network Explorer using Python.\n    *   Published a paper on IEEE Explore on Web 3.0 and Blockchain.\n    *   Secured top positions in various college competitions.\n*   **Competitive Programming:**\n    *   LeetCode: Max Rating 1739, Top 11%, 570+ Problems Solved\n    *   CodeChef: Max Rating 1353\n    *   Hackerrank: 2-3 Star Ratings in various languages\n    *   Demonstrates strong problem-solving skills and algorithmic proficiency.\n\n**Certifications:**\n\n*   Python, SQL (Basic & Intermediate)\n*   Introduction to Programming in C, Cloud Computing\n*   Mastering Data Structures & Algorithms\n*   Fundamentals of Digital Marketing\n*   Demonstrates continuous learning and skill development.\n",
+  "flash_cards": [
+    [
+      "MERN Stack",
+      "MongoDB, Express.js, React.js, Node.js"
+    ],
+    [
+      "React Redux",
+      "A state management library for React applications."
+    ],
+    [
+      "JWT",
+      "JSON Web Token - a standard for securely transmitting information between parties as a JSON object."
+    ],
+    [
+      "React Router DOM",
+      "A library for enabling navigation in React applications."
+    ],
+    [
+      "Spring Boot",
+      "An open-source Java-based framework used to create micro Services."
+    ],
+    [
+      "bcrypt",
+      "A password-hashing function."
+    ],
+    [
+      "REST API",
+      "Representational State Transfer Application Programming Interface - an architectural style that defines a set of constraints to be used for creating Web services."
+    ],
+    [
+      "Multinomial Naive Bayes",
+      "A classification algorithm suitable for text data, commonly used in spam detection."
+    ],
+    [
+      "TensorFlow",
+      "An open-source machine learning framework."
+    ],
+    [
+      "Maven",
+      "A build automation tool primarily used for Java projects."
+    ]
+  ],
+  "quiz": [
+    {
+      "question": "Which of the following is NOT a technology used in the 'Spam Shield' project?",
+      "possible_answers": [
+        "Flask",
+        "Spring Boot",
+        "TensorFlow",
+        "Scikit-learn"
+      ],
+      "index": 1
+    },
+    {
+      "question": "Spring Boot",
+      "possible_answers": [
+        "A state management library for React applications.",
+        "An open-source Java-based framework used to create micro Services.",
+        "A build automation tool primarily used for Java projects.",
+        "JSON Web Token - a standard for securely transmitting information between parties as a JSON object."
+      ],
+      "index": 1
+    },
+    {
+      "question": "React Router DOM",
+      "possible_answers": [
+        "An open-source machine learning framework.",
+        "A library for enabling navigation in React applications.",
+        "A build automation tool primarily used for Java projects.",
+        "MongoDB, Express.js, React.js, Node.js"
+      ],
+      "index": 1
+    },
+    {
+      "question": "What state management library was utilized in the e-commerce website project?",
+      "possible_answers": [
+        "Redux",
+        "useState",
+        "GraphQL",
+        "Context API"
+      ],
+      "index": 0
+    },
+    {
+      "question": "Which technology stack was used to develop the Expense Tracker website?",
+      "possible_answers": [
+        "MERN Stack",
+        "MEAN Stack",
+        "LAMP Stack",
+        "Ruby on Rails"
+      ],
+      "index": 0
+    },
+    {
+      "question": "JWT",
+      "possible_answers": [
+        "A password-hashing function.",
+        "Representational State Transfer Application Programming Interface - an architectural style that defines a set of constraints to be used for creating Web services.",
+        "A classification algorithm suitable for text data, commonly used in spam detection.",
+        "JSON Web Token - a standard for securely transmitting information between parties as a JSON object."
+      ],
+      "index": 3
+    },
+    {
+      "question": "REST API",
+      "possible_answers": [
+        "An open-source Java-based framework used to create micro Services.",
+        "Representational State Transfer Application Programming Interface - an architectural style that defines a set of constraints to be used for creating Web services.",
+        "An open-source machine learning framework.",
+        "A password-hashing function."
+      ],
+      "index": 1
+    },
+    {
+      "question": "Which version control system is used for the projects?",
+      "possible_answers": [
+        "Apache Subversion",
+        "Team Foundation Version Control",
+        "Git",
+        "Mercurial"
+      ],
+      "index": 2
+    },
+    {
+      "question": "MERN Stack",
+      "possible_answers": [
+        "Representational State Transfer Application Programming Interface - an architectural style that defines a set of constraints to be used for creating Web services.",
+        "An open-source machine learning framework.",
+        "MongoDB, Express.js, React.js, Node.js",
+        "A library for enabling navigation in React applications."
+      ],
+      "index": 2
+    },
+    {
+      "question": "What type of tokens were implemented for secure user session management in the 'TenX' project?",
+      "possible_answers": [
+        "OAuth tokens",
+        "JWT tokens",
+        "Session cookies",
+        "API keys"
+      ],
+      "index": 1
+    },
+    {
+      "question": "Which of the following is a Backend Technology mentioned in the document?",
+      "possible_answers": [
+        "Node JS",
+        "HTML",
+        "React JS",
+        "CSS"
+      ],
+      "index": 0
+    },
+    {
+      "question": "Multinomial Naive Bayes",
+      "possible_answers": [
+        "Representational State Transfer Application Programming Interface - an architectural style that defines a set of constraints to be used for creating Web services.",
+        "A classification algorithm suitable for text data, commonly used in spam detection.",
+        "JSON Web Token - a standard for securely transmitting information between parties as a JSON object.",
+        "An open-source machine learning framework."
+      ],
+      "index": 1
+    },
+    {
+      "question": "Which framework was used for the backend of the 'TenX' project?",
+      "possible_answers": [
+        "Flask",
+        "Node.js",
+        "Spring Boot",
+        "Express.js"
+      ],
+      "index": 2
+    },
+    {
+      "question": "Which year did Janani Secure 5th position in Industry Powered Sprint Week - SECE",
+      "possible_answers": [
+        "2025",
+        "2024",
+        "2021",
+        "2022"
+      ],
+      "index": 1
+    },
+    {
+      "question": "In which magazine did Janani publish an article?",
+      "possible_answers": [
+        "Open Source For You",
+        "MIT Technology Review",
+        "Wired",
+        "IEEE Spectrum"
+      ],
+      "index": 0
+    },
+    {
+      "question": "bcrypt",
+      "possible_answers": [
+        "A password-hashing function.",
+        "MongoDB, Express.js, React.js, Node.js",
+        "A library for enabling navigation in React applications.",
+        "A state management library for React applications."
+      ],
+      "index": 0
+    },
+    {
+      "question": "React Redux",
+      "possible_answers": [
+        "A state management library for React applications.",
+        "MongoDB, Express.js, React.js, Node.js",
+        "A build automation tool primarily used for Java projects.",
+        "Representational State Transfer Application Programming Interface - an architectural style that defines a set of constraints to be used for creating Web services."
+      ],
+      "index": 0
+    },
+    {
+      "question": "TensorFlow",
+      "possible_answers": [
+        "A library for enabling navigation in React applications.",
+        "A classification algorithm suitable for text data, commonly used in spam detection.",
+        "JSON Web Token - a standard for securely transmitting information between parties as a JSON object.",
+        "An open-source machine learning framework."
+      ],
+      "index": 3
+    },
+    {
+      "question": "Maven",
+      "possible_answers": [
+        "A build automation tool primarily used for Java projects.",
+        "Representational State Transfer Application Programming Interface - an architectural style that defines a set of constraints to be used for creating Web services.",
+        "A library for enabling navigation in React applications.",
+        "An open-source Java-based framework used to create micro Services."
+      ],
+      "index": 0
+    },
+    {
+      "question": "Which database was used in the 'Student Hub API' project?",
+      "possible_answers": [
+        "PostgreSQL",
+        "MariaDB",
+        "MongoDB",
+        "MySQL"
+      ],
+      "index": 3
+    }
+  ],
+  "title": "Janani M. - Projects & Experience\n",
+  "id": "2Dypv"
+}

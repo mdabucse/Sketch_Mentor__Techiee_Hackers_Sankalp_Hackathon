@@ -1,0 +1,249 @@
+{
+  "summary": "## Janani M. - Technical Skills and Experience Summary\n\n**Overview:** This document summarizes the skills, projects, education, and experience of Janani M., a B.E. CCE student at Sri Eshwar College of Engineering. The document highlights proficiency in MERN stack development, open-source contributions, and machine learning, as well as a strong academic record and achievements in competitive programming.\n\n*   Contact Information:  Includes phone, email, and LinkedIn and GitHub profiles.\n\n**1.  Extensive Project Portfolio Demonstrating MERN Stack and Full-Stack Development Skills:**\n\n*   **TenX - Task Management System (2025):**\n    *   React frontend, Spring Boot backend.\n    *   Secure authentication using JWT and Bcrypt.\n    *   CRUD operations for tasks.\n    *   Task association with logged-in users.\n*   **Spam Shield (2024):**\n    *   Machine learning-based system for detecting phishing attacks in SMS, emails, and URLs.\n    *   Frontend and backend integration with advanced models.\n    *   Multinomial Naive Bayes for SMS/email detection.\n    *   Decision Tree, Random Forest, and Multilayer Perceptron for URL detection (TensorFlow).\n    *   Website and browser extension for spam detection.\n*   **Student Hub API (2023):**\n    *   Java, Maven, MySQL, Spring Boot, REST API.\n    *   CRUD operations with custom URIs.\n    *   Robust exception handling.\n*   **MERN Stack (2023):**\n    *   Timer website using React hooks.\n    *   Expense Tracker with the MERN stack.\n    *   Focus on user-friendly interface.\n*   **E-commerce Website (2024):**\n    *   Built using the MERN stack.\n    *   Utilized React Redux for state management.\n    *   React Router DOM for navigation.\n    *   Secure authentication with JWT tokens.\n\n**2.  Active Open-Source Contributor & Strong Academic Background:**\n\n*   **Girls Script Summer of Code (2024):**\n    *   Contributing to open-source projects.\n    *   Writing code, fixing bugs, adding features.\n    *   Working with maintainers to improve software quality and documentation.\n*   **Education:**\n    *   Sri Eshwar College of Engineering (2022-2026): B.E. CCE, CGPA 8.9 (Up to 5th Semester)\n    *   Bharathiyar Matric Higher Secondary School (2020-2022): HSC, 93.6%\n    *   Bharathiyar Matric Higher Secondary School (2019-2020): SSLC, 97.8%\n\n**3. Technical Skills and Achievements in Programming and Publications:**\n\n*   **Skills:**\n    *   Languages: C++, Java.\n    *   Web Technologies: HTML, CSS, JavaScript, React JS, Node JS, Express JS.\n    *   Core Concepts: Data Structures and Algorithms, OOPS, DBMS, Operating System, Networking.\n    *   Database: SQL, Mongo DB.\n    *   Tools: VScode, Pycharm, IntelliJ, Canva, Github, Postman, Mysql Workbench.\n*   **Achievements:**\n    *   Published a Article in Open Source For You Magazine Using Python to build a Network Explorer\n    *   Secured 5th position in Industry Powered Sprint Week - SECE (2023).\n    *   Secured 2nd position in Innovation Fest 2023 - SECE (2023).\n    *   Published a paper on IEEE Explore Web 3.0: A Decentralized Future Empowered by Blockchain (2023).\n*   **Competitive Programming:**\n    *   LeetCode: Max Rating - 1739, Top 11 %, Problems Solved - 570+.\n    *   CodeChef: Max Rating - 1353.\n    *   HackerRank: 2 Star (C, Python, Java), 3 Star (C++).\n\n**4. Certifications demonstrating Continued Learning:**\n\n*   Hackerrank: Python(Basic), SQL(Basic), SQL(Intermediate) (2024)\n*   NPTEL: Introduction to Programming in C, Cloud Computing (2023)\n*   Udemy: Mastering Data Structures & Algorithms (2023)\n*   Google: The Fundamentals of Digital Marketing (2022)\n",
+  "flash_cards": [
+    [
+      "MERN Stack",
+      "MongoDB, Express.js, React.js, Node.js - a full-stack JavaScript framework."
+    ],
+    [
+      "React Redux",
+      "A predictable state container for JavaScript apps, often used with React for state management."
+    ],
+    [
+      "React Router DOM",
+      "A standard library for routing in React applications, enabling navigation between different views."
+    ],
+    [
+      "JWT (JSON Web Tokens)",
+      "A standard for securely transmitting information as a JSON object, often used for authentication and authorization."
+    ],
+    [
+      "Spring Boot",
+      "An open-source Java-based framework used to create microservices."
+    ],
+    [
+      "Bcrypt",
+      "A password hashing function designed to be computationally intensive and resist brute-force attacks."
+    ],
+    [
+      "Multinomial Naive Bayes",
+      "A probabilistic learning method often used for text classification, such as spam detection."
+    ],
+    [
+      "TensorFlow",
+      "An open-source machine learning framework developed by Google."
+    ],
+    [
+      "NLTK (Natural Language Toolkit)",
+      "A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English."
+    ],
+    [
+      "Maven",
+      "A build automation tool used primarily for Java projects."
+    ]
+  ],
+  "quiz": [
+    {
+      "question": "Multinomial Naive Bayes",
+      "possible_answers": [
+        "MongoDB, Express.js, React.js, Node.js - a full-stack JavaScript framework.",
+        "A password hashing function designed to be computationally intensive and resist brute-force attacks.",
+        "A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English.",
+        "A probabilistic learning method often used for text classification, such as spam detection."
+      ],
+      "index": 3
+    },
+    {
+      "question": "What security measure was implemented for password storage in the TenX project?",
+      "possible_answers": [
+        "Plain Text",
+        "MD5 Hashing",
+        "SHA-256 Hashing",
+        "Bcrypt"
+      ],
+      "index": 3
+    },
+    {
+      "question": "Which technology was primarily used for the frontend of the TenX project?",
+      "possible_answers": [
+        "React JS",
+        "Vue.js",
+        "HTML",
+        "Angular"
+      ],
+      "index": 0
+    },
+    {
+      "question": "Bcrypt",
+      "possible_answers": [
+        "A password hashing function designed to be computationally intensive and resist brute-force attacks.",
+        "A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English.",
+        "A predictable state container for JavaScript apps, often used with React for state management.",
+        "A standard for securely transmitting information as a JSON object, often used for authentication and authorization."
+      ],
+      "index": 0
+    },
+    {
+      "question": "Which backend framework was used in the TenX task management system?",
+      "possible_answers": [
+        "Node.js",
+        "Express.js",
+        "Spring Boot",
+        "Flask"
+      ],
+      "index": 2
+    },
+    {
+      "question": "Spring Boot",
+      "possible_answers": [
+        "A probabilistic learning method often used for text classification, such as spam detection.",
+        "A standard library for routing in React applications, enabling navigation between different views.",
+        "An open-source Java-based framework used to create microservices.",
+        "A build automation tool used primarily for Java projects."
+      ],
+      "index": 2
+    },
+    {
+      "question": "React Router DOM",
+      "possible_answers": [
+        "A standard library for routing in React applications, enabling navigation between different views.",
+        "An open-source Java-based framework used to create microservices.",
+        "A probabilistic learning method often used for text classification, such as spam detection.",
+        "An open-source machine learning framework developed by Google."
+      ],
+      "index": 0
+    },
+    {
+      "question": "What state management library was used in the e-commerce website project?",
+      "possible_answers": [
+        "useState",
+        "React Redux",
+        "None",
+        "Context API"
+      ],
+      "index": 1
+    },
+    {
+      "question": "NLTK (Natural Language Toolkit)",
+      "possible_answers": [
+        "A build automation tool used primarily for Java projects.",
+        "A predictable state container for JavaScript apps, often used with React for state management.",
+        "An open-source machine learning framework developed by Google.",
+        "A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English."
+      ],
+      "index": 3
+    },
+    {
+      "question": "TensorFlow",
+      "possible_answers": [
+        "A probabilistic learning method often used for text classification, such as spam detection.",
+        "An open-source machine learning framework developed by Google.",
+        "A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English.",
+        "A predictable state container for JavaScript apps, often used with React for state management."
+      ],
+      "index": 1
+    },
+    {
+      "question": "React Redux",
+      "possible_answers": [
+        "An open-source Java-based framework used to create microservices.",
+        "A predictable state container for JavaScript apps, often used with React for state management.",
+        "A build automation tool used primarily for Java projects.",
+        "A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English."
+      ],
+      "index": 1
+    },
+    {
+      "question": "MERN Stack",
+      "possible_answers": [
+        "A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English.",
+        "A standard library for routing in React applications, enabling navigation between different views.",
+        "MongoDB, Express.js, React.js, Node.js - a full-stack JavaScript framework.",
+        "A probabilistic learning method often used for text classification, such as spam detection."
+      ],
+      "index": 2
+    },
+    {
+      "question": "In which magazine did Janani publish an article?",
+      "possible_answers": [
+        "TechCrunch",
+        "IEEE Explore",
+        "Open Source For You",
+        "Linux Journal"
+      ],
+      "index": 2
+    },
+    {
+      "question": "What type of database was used in the Student Hub API project?",
+      "possible_answers": [
+        "Firebase",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "index": 1
+    },
+    {
+      "question": "Which technology was used for building REST APIs in the Student Hub API project?",
+      "possible_answers": [
+        "SOAP",
+        "GraphQL",
+        "gRPC",
+        "REST API"
+      ],
+      "index": 3
+    },
+    {
+      "question": "Maven",
+      "possible_answers": [
+        "A build automation tool used primarily for Java projects.",
+        "A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English.",
+        "An open-source machine learning framework developed by Google.",
+        "A standard for securely transmitting information as a JSON object, often used for authentication and authorization."
+      ],
+      "index": 0
+    },
+    {
+      "question": "JWT (JSON Web Tokens)",
+      "possible_answers": [
+        "A standard for securely transmitting information as a JSON object, often used for authentication and authorization.",
+        "A password hashing function designed to be computationally intensive and resist brute-force attacks.",
+        "A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English.",
+        "An open-source machine learning framework developed by Google."
+      ],
+      "index": 0
+    },
+    {
+      "question": "What is the name of the task management system project?",
+      "possible_answers": [
+        "TenX",
+        "MERN Timer",
+        "Student Hub",
+        "Spam Shield"
+      ],
+      "index": 0
+    },
+    {
+      "question": "Which of the following is NOT a skill listed?",
+      "possible_answers": [
+        "React JS",
+        "C++",
+        "Swift",
+        "Data Structures and Algorithms"
+      ],
+      "index": 2
+    },
+    {
+      "question": "Which technology was NOT used in the Spam Shield project?",
+      "possible_answers": [
+        "Spring Boot",
+        "TensorFlow",
+        "Scikit-learn",
+        "NLTK"
+      ],
+      "index": 0
+    }
+  ],
+  "title": "Janani M. - Resume\n",
+  "id": "lTFey"
+}

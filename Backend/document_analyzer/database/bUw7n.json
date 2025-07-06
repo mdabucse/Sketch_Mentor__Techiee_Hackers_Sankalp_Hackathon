@@ -1,0 +1,249 @@
+{
+  "summary": "## Janani M. - Technical Skills & Experience Overview - 2024\n\nThis summary provides an overview of Janani M.'s skills and experiences in software development and computer engineering, as demonstrated through projects, open-source contributions, internships, education, achievements, and certifications.\n\n**1. Project Experience: Full-Stack Development & Machine Learning Expertise**\n\n*   **TenX - Task Management System (2025):** A full-stack application built with React JS (frontend) and Spring Boot (backend).\n    *   Employs JWT for secure user authentication and Bcrypt for password hashing.\n    *   Allows users to create, update, and delete tasks, associating them with logged-in users.\n    *   Uses MySQL for database management.\n*   **Spam Shield (2024):** A machine learning-based system for detecting phishing attacks in various communication channels.\n    *   Utilizes a combination of Multinomial Naive Bayes (SMS/mail detection) and Decision Tree, Random Forest, and Multilayer Perceptron (URL detection).\n    *   Employs TensorFlow for enhanced detection capabilities.\n    *   Includes a user-friendly website and browser extension for accessibility.\n    *   Built with HTML, CSS, JavaScript, Python, Flask, TensorFlow, NLTK, and Scikit-learn.\n*   **Student Hub API (2023):** A RESTful API developed using Java, Spring Boot, and MySQL.\n    *   Implements CRUD operations with custom URIs.\n    *   Employs robust exception handling for a personalized user experience.\n    *   Utilizes Eclipse, Postman API, and MySQL Workbench for development and testing.\n\n**2. MERN Stack Proficiency: E-commerce & Web Development**\n\n*   **MERN Stack E-commerce Website (2024):** Successfully built an e-commerce website using the MERN stack.\n    *   Employs React Redux for state management.\n    *   Utilizes React Router DOM for seamless navigation.\n    *   Implements secure authentication using JWT tokens.\n*   **Timer Website (2023):** Developed a timer website using React hooks.\n*   **Expense Tracker (2023):** Created a simple expense tracker using the MERN stack, emphasizing a user-friendly interface.\n\n**3. Open Source Contributions & Software Quality Enhancement**\n\n*   **Girls Script Summer of Code (2024):** Actively contributes to open-source projects.\n    *   Engages in writing code, fixing bugs, and adding new features.\n    *   Collaborates with maintainers and peers to improve software quality and enhance documentation.\n\n**4. Academic Background & Relevant Skills**\n\n*   **Education:** Pursuing a B.E. in Computer and Communication Engineering (CCE) at Sri Eshwar College of Engineering (2022-2026).\n    *   Achieved a CGPA of 8.9 up to the 5th semester.\n    *   Completed HSC with 93.6% and SSLC with 97.8%.\n*   **Skills:** Demonstrates proficiency in a wide range of languages, web technologies, core concepts, databases, and tools.\n    *   **Languages:** C++, Java.\n    *   **Web Technologies:** HTML, CSS, JavaScript, React JS, Node JS, Express JS.\n    *   **Core Concepts:** Data Structures and Algorithms, OOPS, DBMS, Operating System, Networking.\n    *   **Databases:** SQL, MongoDB.\n    *   **Tools:** VScode, Pycharm, IntelliJ, Canva, Github, Postman, MySQL Workbench.\n\n**5. Achievements & Certifications: Recognition and Validation of Expertise**\n\n*   **Publications:**\n    *   Published an article in Open Source For You Magazine on building a Network Explorer using Python.\n    *   Published a paper on IEEE Explore focusing on Web 3.0 and Blockchain.\n*   **Competition Success:**\n    *   Secured 5th position in Industry Powered Sprint Week at SECE.\n    *   Secured 2nd position in Innovation Fest 2023 at SECE.\n*   **Coding Platform Proficiency:**\n    *   **LeetCode:** Max Rating - 1739, Top 11%, 570+ Problems Solved.\n    *   **CodeChef:** Max Rating - 1353.\n    *   **HackerRank:** 2 Star - C, Python, Java, 3 Star - C++.\n*   **Certifications:** Holds certifications in Python (Basic), SQL (Basic & Intermediate), Introduction to Programming in C, Cloud Computing, Mastering Data Structures & Algorithms, and The Fundamentals of Digital Marketing.\n",
+  "flash_cards": [
+    [
+      "MERN Stack",
+      "MongoDB, Express.js, React.js, Node.js"
+    ],
+    [
+      "React Redux",
+      "A library for state management in React applications."
+    ],
+    [
+      "React Router DOM",
+      "A library for enabling navigation between different views in a React application."
+    ],
+    [
+      "JWT (JSON Web Token)",
+      "A standard for securely transmitting information between parties as a JSON object."
+    ],
+    [
+      "Spring Boot",
+      "An open-source Java-based framework used to create micro Services. It is developed by Pivotal Team and is used to build stand-alone and production ready spring Applications with minimal effort."
+    ],
+    [
+      "Bcrypt",
+      "A password-hashing function designed to be computationally intensive, making it harder to crack passwords."
+    ],
+    [
+      "REST API",
+      "An architectural style for designing networked applications. It relies on a stateless, client-server communication protocol, typically HTTP."
+    ],
+    [
+      "TensorFlow",
+      "An open-source software library for numerical computation and large-scale machine learning."
+    ],
+    [
+      "Multinomial Naive Bayes",
+      "A probabilistic machine learning algorithm used for text classification, particularly effective for spam detection."
+    ],
+    [
+      "CRUD operations",
+      "Create, Read, Update, and Delete operations; the four basic operations of persistent storage."
+    ]
+  ],
+  "quiz": [
+    {
+      "question": "Multinomial Naive Bayes",
+      "possible_answers": [
+        "A password-hashing function designed to be computationally intensive, making it harder to crack passwords.",
+        "A probabilistic machine learning algorithm used for text classification, particularly effective for spam detection.",
+        "MongoDB, Express.js, React.js, Node.js",
+        "Create, Read, Update, and Delete operations; the four basic operations of persistent storage."
+      ],
+      "index": 1
+    },
+    {
+      "question": "MERN Stack",
+      "possible_answers": [
+        "A probabilistic machine learning algorithm used for text classification, particularly effective for spam detection.",
+        "MongoDB, Express.js, React.js, Node.js",
+        "Create, Read, Update, and Delete operations; the four basic operations of persistent storage.",
+        "An open-source Java-based framework used to create micro Services. It is developed by Pivotal Team and is used to build stand-alone and production ready spring Applications with minimal effort."
+      ],
+      "index": 1
+    },
+    {
+      "question": "Which tool was used for API testing in the Student Hub API project?",
+      "possible_answers": [
+        "MySQL Workbench",
+        "Postman",
+        "IntelliJ",
+        "VS Code"
+      ],
+      "index": 1
+    },
+    {
+      "question": "JWT (JSON Web Token)",
+      "possible_answers": [
+        "An open-source software library for numerical computation and large-scale machine learning.",
+        "An architectural style for designing networked applications. It relies on a stateless, client-server communication protocol, typically HTTP.",
+        "A probabilistic machine learning algorithm used for text classification, particularly effective for spam detection.",
+        "A standard for securely transmitting information between parties as a JSON object."
+      ],
+      "index": 3
+    },
+    {
+      "question": "What kind of backend did the TenX task management system use?",
+      "possible_answers": [
+        "Node.js",
+        "Django",
+        "Spring Boot",
+        "Flask"
+      ],
+      "index": 2
+    },
+    {
+      "question": "What is Janani's maximum rating on LeetCode?",
+      "possible_answers": [
+        "570",
+        "1739",
+        "1353",
+        "11"
+      ],
+      "index": 1
+    },
+    {
+      "question": "Which of the following is NOT a skill listed under 'Core Concepts'?",
+      "possible_answers": [
+        "React JS",
+        "Operating System",
+        "DBMS",
+        "Data Structures and Algorithms"
+      ],
+      "index": 0
+    },
+    {
+      "question": "Which of the following languages has Janani obtained a 3-star rating in on HackerRank?",
+      "possible_answers": [
+        "Java",
+        "Python",
+        "C++",
+        "C"
+      ],
+      "index": 2
+    },
+    {
+      "question": "TensorFlow",
+      "possible_answers": [
+        "An open-source Java-based framework used to create micro Services. It is developed by Pivotal Team and is used to build stand-alone and production ready spring Applications with minimal effort.",
+        "A standard for securely transmitting information between parties as a JSON object.",
+        "A probabilistic machine learning algorithm used for text classification, particularly effective for spam detection.",
+        "An open-source software library for numerical computation and large-scale machine learning."
+      ],
+      "index": 3
+    },
+    {
+      "question": "CRUD operations",
+      "possible_answers": [
+        "An open-source software library for numerical computation and large-scale machine learning.",
+        "A library for state management in React applications.",
+        "Create, Read, Update, and Delete operations; the four basic operations of persistent storage.",
+        "MongoDB, Express.js, React.js, Node.js"
+      ],
+      "index": 2
+    },
+    {
+      "question": "What was the technology primarily used for the Student Hub API?",
+      "possible_answers": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "C++"
+      ],
+      "index": 1
+    },
+    {
+      "question": "Bcrypt",
+      "possible_answers": [
+        "A password-hashing function designed to be computationally intensive, making it harder to crack passwords.",
+        "Create, Read, Update, and Delete operations; the four basic operations of persistent storage.",
+        "A library for enabling navigation between different views in a React application.",
+        "MongoDB, Express.js, React.js, Node.js"
+      ],
+      "index": 0
+    },
+    {
+      "question": "React Redux",
+      "possible_answers": [
+        "A library for state management in React applications.",
+        "MongoDB, Express.js, React.js, Node.js",
+        "A probabilistic machine learning algorithm used for text classification, particularly effective for spam detection.",
+        "Create, Read, Update, and Delete operations; the four basic operations of persistent storage."
+      ],
+      "index": 0
+    },
+    {
+      "question": "React Router DOM",
+      "possible_answers": [
+        "Create, Read, Update, and Delete operations; the four basic operations of persistent storage.",
+        "A library for enabling navigation between different views in a React application.",
+        "An open-source software library for numerical computation and large-scale machine learning.",
+        "A probabilistic machine learning algorithm used for text classification, particularly effective for spam detection."
+      ],
+      "index": 1
+    },
+    {
+      "question": "Which state management tool was utilized in the e-commerce website project?",
+      "possible_answers": [
+        "Context API",
+        "React Hooks",
+        "useState",
+        "Redux"
+      ],
+      "index": 3
+    },
+    {
+      "question": "What is Janani's current CGPA?",
+      "possible_answers": [
+        "Unknown",
+        "93.6%",
+        "97.8%",
+        "8.9"
+      ],
+      "index": 3
+    },
+    {
+      "question": "Which of the following is NOT a technology used in the Spam Shield project?",
+      "possible_answers": [
+        "HTML",
+        "Java",
+        "TensorFlow",
+        "Flask"
+      ],
+      "index": 1
+    },
+    {
+      "question": "In which year was the paper on 'Web 3.0: A Decentralized Future Empowered by Blockchain' published?",
+      "possible_answers": [
+        "2025",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "index": 2
+    },
+    {
+      "question": "REST API",
+      "possible_answers": [
+        "MongoDB, Express.js, React.js, Node.js",
+        "An architectural style for designing networked applications. It relies on a stateless, client-server communication protocol, typically HTTP.",
+        "A library for enabling navigation between different views in a React application.",
+        "An open-source Java-based framework used to create micro Services. It is developed by Pivotal Team and is used to build stand-alone and production ready spring Applications with minimal effort."
+      ],
+      "index": 1
+    },
+    {
+      "question": "Spring Boot",
+      "possible_answers": [
+        "A library for state management in React applications.",
+        "An open-source Java-based framework used to create micro Services. It is developed by Pivotal Team and is used to build stand-alone and production ready spring Applications with minimal effort.",
+        "An open-source software library for numerical computation and large-scale machine learning.",
+        "MongoDB, Express.js, React.js, Node.js"
+      ],
+      "index": 1
+    }
+  ],
+  "title": "Janani M. - Resume\n",
+  "id": "bUw7n"
+}

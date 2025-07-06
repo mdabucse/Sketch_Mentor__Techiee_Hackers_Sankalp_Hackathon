@@ -1,0 +1,249 @@
+{
+  "summary": "## Overview\nJanani M is a highly skilled and motivated Computer Science and Engineering student with a strong focus on full-stack development, particularly with the MERN stack. She has hands-on experience in building web applications, contributing to open-source projects, and developing machine learning solutions.  Her profile showcases a blend of technical proficiency, practical project experience, and a commitment to continuous learning.\n\n*   Contact Information: Includes phone number, email, GitHub and LinkedIn profile information.\n*   Education: Currently pursuing a B.E. in Computer and Communication Engineering (CCE) at Sri Eshwar College of Engineering (2022-2026) with a CGPA of 8.9. Also details her high school education.\n\n**1.  Project Portfolio Showcasing Full-Stack Development and Machine Learning Expertise**\n\n    *   **TenX - A Task Management System (2025):**\n        *   MERN stack (React JS, Spring Boot, JWT, Bcrypt, Mysql, REST API).\n        *   Developed a task management system with React frontend and Spring Boot backend.\n        *   Implemented JWT for secure session management and bcrypt for password hashing.\n        *   Enabled users to create, update, and delete tasks.\n    *   **Spam Shield (2024):**\n        *   Utilized HTML, CSS, JavaScript, Python, Flask, TensorFlow, NLTK, Scikit-learn.\n        *   Built a machine learning system to detect phishing attacks in SMS, emails, and URLs.\n        *   Employed Multinomial Naive Bayes for SMS/mail detection and Decision Tree, Random Forest, and Multilayer Perceptron for URL detection.\n        *   Developed a user-friendly website and browser extension.\n    *   **Student Hub API (2023):**\n        *   Employed Java, Maven, MySQL, Spring Boot, REST API.\n        *   Developed a Java Maven project with custom URIs for CRUD operations.\n        *   Implemented robust exception handling for a personalized user experience.\n    *   **MERN Stack Timer and Expense Tracker (2023):**\n        *   Developed a Timer website using React hooks.\n        *   Built a simple Expense Tracker with the MERN stack.\n        *   Focused on creating a user-friendly interface.\n    *   **E-Commerce Website (2024):**\n        *   Built an e-commerce website using the MERN stack.\n        *   Utilized React Redux for state management.\n        *   Used React Router DOM for navigation.\n        *   Implemented secure authentication with JWT tokens.\n\n**2.  Active Open-Source Contributor and Recognition Through Achievements**\n\n    *   **Girls Script Summer of Code (2024):**\n        *   Contributed to open-source projects.\n        *   Wrote code, fixed bugs, and added new features.\n        *   Collaborated with maintainers and peers to improve software quality and documentation.\n    *   **Publications and Awards:**\n        *   Published an article in Open Source For You Magazine using Python to build a Network Explorer.\n        *   Published a paper on IEEE Explore titled \"Web 3.0: A Decentralized Future Empowered by Blockchain\".\n        *   Secured 5th position in Industry Powered Sprint Week at SECE (2023).\n        *   Secured 2nd position in Innovation Fest 2023 at SECE.\n\n**3.  Comprehensive Skill Set and Certifications Demonstrating Proficiency**\n\n    *   **Programming Languages:**  C++, Java\n    *   **Web Technologies:** HTML, CSS, JavaScript, React JS, Node JS, Express JS\n    *   **Core Concepts:** Data Structures and Algorithms, OOPS, DBMS, Operating System, Networking\n    *   **Databases:** SQL, Mongo DB\n    *   **Tools:** VScode, Pycharm, IntelliJ, Canva, Github, Postman, Mysql Workbench\n    *   **Platform Ratings:**\n        *   LEETCODE: Max Rating - 1739 | Top 11% | Problems Solved - 570+\n        *   CODECHEF: Max Rating - 1353\n        *   HACKERRANK: 2 Star - C, Python, Java | 3 Star - C++\n    *   **Certifications:**\n        *   Python(Basic), SQL(Basic), SQL(Intermediate) (Hackerrank)\n        *   Introduction to Programming in C, Cloud Computing (NPTEL)\n        *   Mastering Data Structures & Algorithms (Udemy)\n        *   The Fundamentals of Digital Marketing (Google)\n",
+  "flash_cards": [
+    [
+      "MERN Stack",
+      "MongoDB, Express.js, React.js, Node.js - A full-stack JavaScript framework."
+    ],
+    [
+      "React Redux",
+      "A predictable state container for JavaScript apps, often used with React for state management."
+    ],
+    [
+      "React Router DOM",
+      "A standard library for routing in React, enabling navigation between different views."
+    ],
+    [
+      "JWT Tokens",
+      "JSON Web Tokens - a standard for securely transmitting information between parties as a JSON object."
+    ],
+    [
+      "Multinomial Naive Bayes",
+      "A probabilistic machine learning classifier suitable for text classification tasks like spam detection."
+    ],
+    [
+      "REST API",
+      "Representational State Transfer Application Programming Interface - an architectural style for designing networked applications."
+    ],
+    [
+      "Bcrypt",
+      "A popular password hashing function used to securely store user passwords."
+    ],
+    [
+      "Spring Boot",
+      "An open-source Java-based framework used to create micro Services. It is developed by Pivotal Software."
+    ],
+    [
+      "Data Structures and Algorithms",
+      "Fundamental concepts in computer science involving efficient methods of organizing and manipulating data, and step-by-step procedures for problem-solving."
+    ],
+    [
+      "TenX Task Management System technologies",
+      "React JS, Spring Boot, JWT, Bcrypt, Mysql, REST API"
+    ]
+  ],
+  "quiz": [
+    {
+      "question": "Multinomial Naive Bayes",
+      "possible_answers": [
+        "A popular password hashing function used to securely store user passwords.",
+        "A predictable state container for JavaScript apps, often used with React for state management.",
+        "A probabilistic machine learning classifier suitable for text classification tasks like spam detection.",
+        "Representational State Transfer Application Programming Interface - an architectural style for designing networked applications."
+      ],
+      "index": 2
+    },
+    {
+      "question": "What rating has Janani achieved on LeetCode?",
+      "possible_answers": [
+        "1739",
+        "1353",
+        "3 Star",
+        "2 Star"
+      ],
+      "index": 0
+    },
+    {
+      "question": "What state management library was used in the e-commerce website project?",
+      "possible_answers": [
+        "React Router DOM",
+        "JWT",
+        "Express.js",
+        "React Redux"
+      ],
+      "index": 3
+    },
+    {
+      "question": "What was the topic of the article published in Open Source For You Magazine?",
+      "possible_answers": [
+        "Web 3.0: A Decentralized Future Empowered by Blockchain",
+        "Building a Network Explorer Using Python",
+        "Innovation Fest 2023",
+        "Industry Powered Sprint Week"
+      ],
+      "index": 1
+    },
+    {
+      "question": "MERN Stack",
+      "possible_answers": [
+        "A probabilistic machine learning classifier suitable for text classification tasks like spam detection.",
+        "Representational State Transfer Application Programming Interface - an architectural style for designing networked applications.",
+        "MongoDB, Express.js, React.js, Node.js - A full-stack JavaScript framework.",
+        "JSON Web Tokens - a standard for securely transmitting information between parties as a JSON object."
+      ],
+      "index": 2
+    },
+    {
+      "question": "REST API",
+      "possible_answers": [
+        "A standard library for routing in React, enabling navigation between different views.",
+        "JSON Web Tokens - a standard for securely transmitting information between parties as a JSON object.",
+        "MongoDB, Express.js, React.js, Node.js - A full-stack JavaScript framework.",
+        "Representational State Transfer Application Programming Interface - an architectural style for designing networked applications."
+      ],
+      "index": 3
+    },
+    {
+      "question": "JWT Tokens",
+      "possible_answers": [
+        "A predictable state container for JavaScript apps, often used with React for state management.",
+        "A popular password hashing function used to securely store user passwords.",
+        "Representational State Transfer Application Programming Interface - an architectural style for designing networked applications.",
+        "JSON Web Tokens - a standard for securely transmitting information between parties as a JSON object."
+      ],
+      "index": 3
+    },
+    {
+      "question": "For what type of detection was the Multinomial Naive Bayes model used in the 'Spam Shield' project?",
+      "possible_answers": [
+        "Website",
+        "URL detection",
+        "Browser extension",
+        "SMS/mail detection"
+      ],
+      "index": 3
+    },
+    {
+      "question": "Which database was used in the 'Student Hub API' project?",
+      "possible_answers": [
+        "Maven",
+        "MySQL",
+        "MongoDB",
+        "Postman API"
+      ],
+      "index": 1
+    },
+    {
+      "question": "Which technology was utilized for secure user session management in the 'TenX' project?",
+      "possible_answers": [
+        "MySQL",
+        "React JS",
+        "Spring Boot",
+        "JWT tokens"
+      ],
+      "index": 3
+    },
+    {
+      "question": "Data Structures and Algorithms",
+      "possible_answers": [
+        "Fundamental concepts in computer science involving efficient methods of organizing and manipulating data, and step-by-step procedures for problem-solving.",
+        "A standard library for routing in React, enabling navigation between different views.",
+        "A predictable state container for JavaScript apps, often used with React for state management.",
+        "Representational State Transfer Application Programming Interface - an architectural style for designing networked applications."
+      ],
+      "index": 0
+    },
+    {
+      "question": "Which of the following technologies was NOT used in the 'Spam Shield' project?",
+      "possible_answers": [
+        "Spring Boot",
+        "Scikit-learn",
+        "Flask",
+        "TensorFlow"
+      ],
+      "index": 0
+    },
+    {
+      "question": "In the TenX project, which of the following was used for password hashing?",
+      "possible_answers": [
+        "Bcrypt",
+        "REST API",
+        "Spring Boot",
+        "JWT tokens"
+      ],
+      "index": 0
+    },
+    {
+      "question": "Which framework was used for building the backend of the 'TenX - A Task Management System' project?",
+      "possible_answers": [
+        "REST API",
+        "MySQL",
+        "Spring Boot",
+        "React JS"
+      ],
+      "index": 2
+    },
+    {
+      "question": "Spring Boot",
+      "possible_answers": [
+        "A probabilistic machine learning classifier suitable for text classification tasks like spam detection.",
+        "A predictable state container for JavaScript apps, often used with React for state management.",
+        "An open-source Java-based framework used to create micro Services. It is developed by Pivotal Software.",
+        "Fundamental concepts in computer science involving efficient methods of organizing and manipulating data, and step-by-step procedures for problem-solving."
+      ],
+      "index": 2
+    },
+    {
+      "question": "React Router DOM",
+      "possible_answers": [
+        "A standard library for routing in React, enabling navigation between different views.",
+        "A popular password hashing function used to securely store user passwords.",
+        "JSON Web Tokens - a standard for securely transmitting information between parties as a JSON object.",
+        "A probabilistic machine learning classifier suitable for text classification tasks like spam detection."
+      ],
+      "index": 0
+    },
+    {
+      "question": "Bcrypt",
+      "possible_answers": [
+        "A popular password hashing function used to securely store user passwords.",
+        "Fundamental concepts in computer science involving efficient methods of organizing and manipulating data, and step-by-step procedures for problem-solving.",
+        "A predictable state container for JavaScript apps, often used with React for state management.",
+        "JSON Web Tokens - a standard for securely transmitting information between parties as a JSON object."
+      ],
+      "index": 0
+    },
+    {
+      "question": "React Redux",
+      "possible_answers": [
+        "A probabilistic machine learning classifier suitable for text classification tasks like spam detection.",
+        "A predictable state container for JavaScript apps, often used with React for state management.",
+        "An open-source Java-based framework used to create micro Services. It is developed by Pivotal Software.",
+        "Representational State Transfer Application Programming Interface - an architectural style for designing networked applications."
+      ],
+      "index": 1
+    },
+    {
+      "question": "Which year did Janani secure the 5th position in Industry Powered Sprint Week - SECE?",
+      "possible_answers": [
+        "2025",
+        "2023",
+        "2022",
+        "2024"
+      ],
+      "index": 3
+    },
+    {
+      "question": "TenX Task Management System technologies",
+      "possible_answers": [
+        "Fundamental concepts in computer science involving efficient methods of organizing and manipulating data, and step-by-step procedures for problem-solving.",
+        "React JS, Spring Boot, JWT, Bcrypt, Mysql, REST API",
+        "A standard library for routing in React, enabling navigation between different views.",
+        "An open-source Java-based framework used to create micro Services. It is developed by Pivotal Software."
+      ],
+      "index": 1
+    }
+  ],
+  "title": "Janani M. - Resume\n",
+  "id": "yb7aS"
+}

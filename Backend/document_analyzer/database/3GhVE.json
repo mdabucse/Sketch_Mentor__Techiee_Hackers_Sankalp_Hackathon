@@ -1,0 +1,249 @@
+{
+  "summary": "### Overview\n\nThis document outlines the skills, experience, and achievements of an individual (Janani M) with a strong focus on software development, particularly within the MERN stack and related technologies. The individual has experience in project development, open-source contributions, and has a strong academic record complemented by certifications and achievements in competitive programming.\n\n**1. Project Development & Technical Skills**\n\n*   The individual has hands-on experience in developing full-stack applications and possesses a diverse skill set.\n    *   **E-commerce Website (MERN Stack, 2024):** Successfully built an e-commerce website using the MERN stack, indicating familiarity with MongoDB, Express.js, React.js, and Node.js. Implemented advanced React concepts like Redux and React Router DOM. Used JWT tokens for authentication.\n    *   **Task Management System (TenX, 2025):** Developed a task management system using React.js for the front end and Spring Boot for the back end. Implemented JWT and Bcrypt for security.\n    *   **Spam Shield (2024):** Developed a machine-learning-based spam detection system using Python, Flask, TensorFlow, NLTK, and Scikit-learn, demonstrating expertise in both web development and data science/machine learning. It involves building a frontend website and a browser extension.\n    *   **Student Hub API (2023):** Created a Java-based API using Spring Boot, showcasing experience in backend development with Java. Used Maven, MySQL, and RESTful principles.\n    *   **Timer Website & Expense Tracker (2023):** Developed web applications with React hooks and the MERN stack.\n*   **Technical Proficiency:** The individual possesses a wide range of technical skills including:\n    *   **Languages:** C++, Java, and Python.\n    *   **Web Technologies:** HTML, CSS, JavaScript, React JS, Node JS, and Express JS.\n    *   **Core Concepts:** Data Structures and Algorithms, OOPS, DBMS, Operating System, and Networking.\n    *   **Databases:** SQL and MongoDB.\n    *   **Tools:** VScode, Pycharm, IntelliJ, Canva, Github, Postman, and Mysql Workbench.\n\n**2. Open Source Contributions & Community Engagement**\n\n*   The individual is actively involved in the open-source community, demonstrating a commitment to collaboration and software quality.\n    *   **Girls Script Summer of Code (2024):** Contributes to open-source projects by writing code, fixing bugs, and enhancing documentation.\n\n**3. Academic Achievements & Certifications**\n\n*   The individual has a strong academic record and has pursued relevant certifications to enhance their knowledge and skills.\n    *   **Education:** Pursuing B.E. in CCE (Computer and Communication Engineering) with a strong CGPA.\n    *   **Certifications:** Certified in various areas including Python, SQL, C programming, Cloud Computing, Data Structures & Algorithms, and Digital Marketing.\n    *   **Publications:** Published articles and papers in reputable platforms like Open Source For You Magazine and IEEE Explore.\n    *   **Competitive Programming:** Achieved high ratings and solved a significant number of problems on platforms like LeetCode, CodeChef, and HackerRank.\n        *   LeetCode: Max Rating - 1739 (Top 11%), 570+ Problems Solved.\n        *   CodeChef: Max Rating - 1353.\n        *   HackerRank: 2-Star in C, Python, Java; 3-Star in C++.\n    *   **Awards:** Secured positions in various competitions like Industry Powered Sprint Week and Innovation Fest.\n",
+  "flash_cards": [
+    [
+      "MERN Stack",
+      "MongoDB, Express.js, React.js, Node.js"
+    ],
+    [
+      "React Redux",
+      "A state management library for React applications."
+    ],
+    [
+      "React Router DOM",
+      "A library for enabling navigation in React applications."
+    ],
+    [
+      "JWT Tokens",
+      "JSON Web Tokens, used for secure authentication."
+    ],
+    [
+      "Spring Boot",
+      "An open-source Java-based framework used to create micro Services."
+    ],
+    [
+      "Bcrypt",
+      "A password hashing function."
+    ],
+    [
+      "REST API",
+      "Representational State Transfer Application Programming Interface - an architectural style for an application that uses HTTP requests to access and use data"
+    ],
+    [
+      "Multinomial Naive Bayes",
+      "A variant of Naive Bayes that is suitable for classification with discrete features (e.g., word counts for text classification)."
+    ],
+    [
+      "TensorFlow",
+      "An open-source software library for machine learning and artificial intelligence."
+    ],
+    [
+      "CRUD Operations",
+      "Create, Read, Update, Delete - the four basic operations performed on data."
+    ]
+  ],
+  "quiz": [
+    {
+      "question": "Which of the following is NOT part of the MERN stack?",
+      "possible_answers": [
+        "React.js",
+        "Spring Boot",
+        "MongoDB",
+        "Express.js"
+      ],
+      "index": 1
+    },
+    {
+      "question": "Which of the following is NOT a technology used in the Spam Shield project?",
+      "possible_answers": [
+        "TensorFlow",
+        "NLTK",
+        "Spring Boot",
+        "Scikit-learn"
+      ],
+      "index": 2
+    },
+    {
+      "question": "Which machine learning algorithm was primarily used for SMS/mail detection in the Spam Shield project?",
+      "possible_answers": [
+        "Multinomial Naive Bayes",
+        "Random Forest",
+        "Decision Tree",
+        "Multilayer Perceptron"
+      ],
+      "index": 0
+    },
+    {
+      "question": "In which year was the Article in Open Source For You Magazine Published?",
+      "possible_answers": [
+        "2021",
+        "2024",
+        "2022",
+        "2023"
+      ],
+      "index": 1
+    },
+    {
+      "question": "TensorFlow",
+      "possible_answers": [
+        "An open-source software library for machine learning and artificial intelligence.",
+        "A variant of Naive Bayes that is suitable for classification with discrete features (e.g., word counts for text classification).",
+        "JSON Web Tokens, used for secure authentication.",
+        "An open-source Java-based framework used to create micro Services."
+      ],
+      "index": 0
+    },
+    {
+      "question": "What is Janani's CGPA?",
+      "possible_answers": [
+        "8.6",
+        "8.9",
+        "9.2",
+        "9.5"
+      ],
+      "index": 1
+    },
+    {
+      "question": "Bcrypt",
+      "possible_answers": [
+        "A variant of Naive Bayes that is suitable for classification with discrete features (e.g., word counts for text classification).",
+        "JSON Web Tokens, used for secure authentication.",
+        "An open-source software library for machine learning and artificial intelligence.",
+        "A password hashing function."
+      ],
+      "index": 3
+    },
+    {
+      "question": "Which authentication method was used in the TenX project for secure user session management?",
+      "possible_answers": [
+        "Session cookies",
+        "JWT tokens",
+        "Basic Auth",
+        "OAuth"
+      ],
+      "index": 1
+    },
+    {
+      "question": "MERN Stack",
+      "possible_answers": [
+        "JSON Web Tokens, used for secure authentication.",
+        "An open-source software library for machine learning and artificial intelligence.",
+        "Create, Read, Update, Delete - the four basic operations performed on data.",
+        "MongoDB, Express.js, React.js, Node.js"
+      ],
+      "index": 3
+    },
+    {
+      "question": "React Redux",
+      "possible_answers": [
+        "An open-source software library for machine learning and artificial intelligence.",
+        "Create, Read, Update, Delete - the four basic operations performed on data.",
+        "A state management library for React applications.",
+        "MongoDB, Express.js, React.js, Node.js"
+      ],
+      "index": 2
+    },
+    {
+      "question": "CRUD Operations",
+      "possible_answers": [
+        "An open-source Java-based framework used to create micro Services.",
+        "JSON Web Tokens, used for secure authentication.",
+        "Create, Read, Update, Delete - the four basic operations performed on data.",
+        "Representational State Transfer Application Programming Interface - an architectural style for an application that uses HTTP requests to access and use data"
+      ],
+      "index": 2
+    },
+    {
+      "question": "What was Janani's percentage in HSC?",
+      "possible_answers": [
+        "96.3%",
+        "97.8%",
+        "95.7%",
+        "93.6%"
+      ],
+      "index": 3
+    },
+    {
+      "question": "JWT Tokens",
+      "possible_answers": [
+        "JSON Web Tokens, used for secure authentication.",
+        "A library for enabling navigation in React applications.",
+        "A variant of Naive Bayes that is suitable for classification with discrete features (e.g., word counts for text classification).",
+        "An open-source software library for machine learning and artificial intelligence."
+      ],
+      "index": 0
+    },
+    {
+      "question": "Which technologies were used for the frontend of the TenX task management system?",
+      "possible_answers": [
+        "MySQL",
+        "Node JS",
+        "Spring Boot",
+        "React JS"
+      ],
+      "index": 3
+    },
+    {
+      "question": "Which technology was used for password hashing in the TenX project?",
+      "possible_answers": [
+        "Base64",
+        "SHA-256",
+        "bcrypt",
+        "MD5"
+      ],
+      "index": 2
+    },
+    {
+      "question": "What kind of database was used in the Student Hub API project?",
+      "possible_answers": [
+        "Oracle",
+        "MySQL",
+        "MongoDB",
+        "PostgreSQL"
+      ],
+      "index": 1
+    },
+    {
+      "question": "REST API",
+      "possible_answers": [
+        "A state management library for React applications.",
+        "A password hashing function.",
+        "Create, Read, Update, Delete - the four basic operations performed on data.",
+        "Representational State Transfer Application Programming Interface - an architectural style for an application that uses HTTP requests to access and use data"
+      ],
+      "index": 3
+    },
+    {
+      "question": "Multinomial Naive Bayes",
+      "possible_answers": [
+        "A library for enabling navigation in React applications.",
+        "A password hashing function.",
+        "A variant of Naive Bayes that is suitable for classification with discrete features (e.g., word counts for text classification).",
+        "An open-source Java-based framework used to create micro Services."
+      ],
+      "index": 2
+    },
+    {
+      "question": "Spring Boot",
+      "possible_answers": [
+        "An open-source Java-based framework used to create micro Services.",
+        "A password hashing function.",
+        "MongoDB, Express.js, React.js, Node.js",
+        "JSON Web Tokens, used for secure authentication."
+      ],
+      "index": 0
+    },
+    {
+      "question": "React Router DOM",
+      "possible_answers": [
+        "JSON Web Tokens, used for secure authentication.",
+        "MongoDB, Express.js, React.js, Node.js",
+        "Create, Read, Update, Delete - the four basic operations performed on data.",
+        "A library for enabling navigation in React applications."
+      ],
+      "index": 3
+    }
+  ],
+  "title": "Janani M. - Resume\n",
+  "id": "3GhVE"
+}
