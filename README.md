@@ -48,8 +48,16 @@ Our real-time equation visualizer converts your equations into dynamic, interact
 Our interactive solver provides comprehensive, step-by-step solutions using both text and images. It details every stage of the process, explaining what to do, how to perform each step, and showcasing the output at every point, making it easy to follow along and understand the solution.
 
 ## 📸 Screenshots
-
-> *Add screenshots or demo GIFs here*
+![image](https://github.com/user-attachments/assets/44dcd16c-1c97-4188-9f2e-404e02571674)
+![image](https://github.com/user-attachments/assets/8db15e21-82f5-4103-b2e7-4ef08f24658b)
+![image](https://github.com/user-attachments/assets/58257208-7520-44e3-9b93-682d8f05f02d)
+![image](https://github.com/user-attachments/assets/6110577b-d0bd-4b51-9054-b2c6853d2e3c)
+![image](https://github.com/user-attachments/assets/010123b4-867c-4ead-9b42-b32aa8f86da9)
+![image](https://github.com/user-attachments/assets/292fd221-f4d5-409a-b6d8-158e8e714426)
+![Final Output - frame at 2m5s](https://github.com/user-attachments/assets/ced7bdb1-5d59-4c74-8569-523e80898b00)
+![Final Output - frame at 2m16s](https://github.com/user-attachments/assets/c1739244-ccc5-46c8-8d68-2886f15636ee)
+![Final Output - frame at 2m48s](https://github.com/user-attachments/assets/e581ec58-d9ca-4a2c-9954-a635724fe932)
+![Final Output - frame at 3m28s](https://github.com/user-attachments/assets/75730175-8a5b-402b-91d7-4608df47c3b3)
 
 ## 🗓️ Hackathon Details
 
