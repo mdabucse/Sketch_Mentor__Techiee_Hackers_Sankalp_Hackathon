@@ -50,6 +50,12 @@ Our real-time equation visualizer converts your equations into dynamic, interact
 
 Our interactive solver provides comprehensive, step-by-step solutions using both text and images. It details every stage of the process, explaining what to do, how to perform each step, and showcasing the output at every point, making it easy to follow along and understand the solution.
 
+
+## Architecture
+<img width="2870" height="1251" alt="diagram-export-9-25-2025-6_16_21-PM" src="https://github.com/user-attachments/assets/b0951056-d318-474f-83a2-07c1f6087956" />
+
+
+
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/44dcd16c-1c97-4188-9f2e-404e02571674)
 ![image](https://github.com/user-attachments/assets/8db15e21-82f5-4103-b2e7-4ef08f24658b)
