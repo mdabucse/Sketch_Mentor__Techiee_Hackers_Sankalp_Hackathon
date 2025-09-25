@@ -69,11 +69,6 @@ Our interactive solver provides comprehensive, step-by-step solutions using both
 * 🏁 Duration: 36 hours
 * 🎯 Theme: Education & Skill Development
 
-## 👨‍💻 Contributors
-
-* [@mdabucse](https://github.com/mdabucse)
-* [@Janani-m17](https://github.com/Janani-m17)
-
 ## 🧪 How to Run Locally
 
 1. Clone the repo:
